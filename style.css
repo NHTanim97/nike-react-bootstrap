@@ -1,4 +1,43 @@
-
+/* ------header part---------- */
+/* nav */
+.logo{
+    width: 200px;
+}
 .menu-items{
     margin-left: 40%;
 }
+/* --- */
+
+
+/* header */
+.btext-one{
+    color: #FA804C;
+}
+.btext-two{
+    color: #363958;
+}
+.card-btn{
+    background-color: #3D4FF3;
+    border: none;
+}
+.header-card{
+    border: none;
+}
+
+.header{
+    background-color: #FFF9F4;
+}
+.hcontent{
+    background-color: #FFF9F4;
+}
+/* ---- */
+
+/* ------------------------------ */
+
+
+
+
+
+/* --------------main part------------- */
+
+/* ------------------------------------ */
