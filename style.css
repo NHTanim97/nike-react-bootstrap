@@ -6,6 +6,9 @@
 .menu-items{
     margin-left: 40%;
 }
+.textMenu{
+    color: #44465f;
+}
 /* --- */
 
 
@@ -14,7 +17,7 @@
     color: #FA804C;
 }
 .btext-two{
-    color: #363958;
+    color: #44475f;
 }
 .card-btn{
     background-color: #3D4FF3;
@@ -69,9 +72,6 @@
 .footer{
     margin-top: 40px;
     margin-bottom: 120px;
-}
-.footerLeft{
-    
 }
 
 .footerImg{
